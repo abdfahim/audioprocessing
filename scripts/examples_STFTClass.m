@@ -1,5 +1,6 @@
 clear all
 % Include path to STFTClass.m
+addpath(genpath('library'))
 
 % Let say wee have a audio signal 2s long
 fs = 16000;
