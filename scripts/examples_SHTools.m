@@ -4,6 +4,8 @@ clear all
 % 2. Enter "help SHTools.functionName" to get help about that particular function
 % 3. All angles are in radians
 
+addpath(genpath('library'))
+
 %% Input parameters
 
 % Lets say we have 10 microphones with the following elevations and azimuths
