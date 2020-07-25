@@ -18,7 +18,7 @@ These Matlab libraries were created during my PhD research at the Australian Nat
   * Other miscellaneous useful functions
   * Get Eigenmic coordinates
 
-* **HOAGrid.m & _HOAGridData.mat:** Design spherical microphone array with weights.
+* **HOAGrid.m & HOAGridData.mat:** Design spherical microphone array with weights.
 
 * **STFTClass:** Perform efficient STFT and inverse STFT for audio processing.
 * **examples_STFTClass.m:** demonstrate usage of STFTClass
