@@ -833,6 +833,9 @@ classdef SHTools < handle
             %
             % SPH_BESSELJ.M - 15/7/2013
             % Archontis Politis, archontis.politis@aalto.fi
+            % Copyright (c) 2015, Archontis Politis All rights reserved.
+            % Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+            % Neither the name of Higher-Order-Ambisonics nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
             %
             %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -852,6 +855,9 @@ classdef SHTools < handle
             %
             % SPH_BESSELY.M - 15/7/2013
             % Archontis Politis, archontis.politis@aalto.fi
+            % Copyright (c) 2015, Archontis Politis All rights reserved.
+            % Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+            % Neither the name of Higher-Order-Ambisonics nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
             %
             %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -865,6 +871,9 @@ classdef SHTools < handle
             %
             % SPH_HANKEL1.M - 15/7/2013
             % Archontis Politis, archontis.politis@aalto.fi
+            % Copyright (c) 2015, Archontis Politis All rights reserved.
+            % Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+            % Neither the name of Higher-Order-Ambisonics nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
             %
             %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -879,6 +888,9 @@ classdef SHTools < handle
             %
             % DSPH_BESSELJ.M - 15/7/2013
             % Archontis Politis, archontis.politis@aalto.fi
+            % Copyright (c) 2015, Archontis Politis All rights reserved.
+            % Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+            % Neither the name of Higher-Order-Ambisonics nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
             %
             %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -895,6 +907,9 @@ classdef SHTools < handle
             %
             % DSPH_BESSELY.M - 15/7/2013
             % Archontis Politis, archontis.politis@aalto.fi
+            % Copyright (c) 2015, Archontis Politis All rights reserved.
+            % Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+            % Neither the name of Higher-Order-Ambisonics nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
             %
             %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -909,6 +924,9 @@ classdef SHTools < handle
             %
             % DSPH_HANKEL1.M - 15/7/2013
             % Archontis Politis, archontis.politis@aalto.fi
+            % Copyright (c) 2015, Archontis Politis All rights reserved.
+            % Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+            % Neither the name of Higher-Order-Ambisonics nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
             %
             %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
